@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/Hazelwu2/week4-nodejs.git">
+  <a href="https://github.com/Hazelwu2/express-scaffold.git">
     <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -9,7 +9,7 @@
   <p align="center">
     🌱 Nodejs Express 腳手架
     <br />
-    <a href="https://github.com/Hazelwu2/express-sccaffold/issues">Report Bug</a>
+    <a href="https://github.com/Hazelwu2/express-scaffold/issues">Report Bug</a>
     ·
     <a href="#">線上Demo</a>
   </p>
