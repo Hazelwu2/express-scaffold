@@ -16,7 +16,7 @@ app.use(cors(corsOptions))
 app.use(express.json())
 
 // Router
-app.use('/api/v1/posts', postRouter)
+app.use('/api/posts', postRouter)
 
 // 無此路由
 app.use('*', (req, res, next) => {
