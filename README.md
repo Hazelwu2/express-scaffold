@@ -39,6 +39,7 @@
 * [Mongoose](https://mongoosejs.com/)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [validator](https://www.npmjs.com/package/validator)
+* [Express 架構推薦](https://github.com/hagopj13/node-express-boilerplate)
 
 ## 👨‍💻 Getting Started
 以下照著範例做，可以讓你在本地端 run 此專案
